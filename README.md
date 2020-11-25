@@ -1,1 +1,3 @@
 Sorting_Algorithms
+
+Insertion Sort
